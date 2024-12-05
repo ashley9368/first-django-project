@@ -1,1 +1,1 @@
-web: gunicorn first-django-project.wsgi
+web: gunicorn first-django-project-1.wsgi
